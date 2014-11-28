@@ -1,0 +1,28 @@
+#titulo {
+	color: blue;
+}
+
+p {
+	color: red;
+}
+
+html {
+	width: 320px;
+}
+
+body {
+  width: 320px;
+}
+
+.content_12 {
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 320px;
+}
+
+.style {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 150px;    
+}
